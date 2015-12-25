@@ -1,2 +1,7 @@
+本地共享仓库
 origin
 //192.168.0.119/test_cases
+外网共享仓库
+sharing
+https://github.com/KND-YHB/JN-sharing-platform.git
+推送用户名：KND-YHB  密码：yhb870820
